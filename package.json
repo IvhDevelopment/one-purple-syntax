@@ -1,7 +1,7 @@
 {
   "name": "one-purple-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A syntax highlighting theme for Atom, with colors based on atom-ide example theme.",
   "keywords": [
     "syntax",
