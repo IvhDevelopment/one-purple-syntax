@@ -1,0 +1,15 @@
+{
+  "name": "one-purple-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A syntax highlighting theme for Atom, with colors based on atom-ide example theme.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/one-purple-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
